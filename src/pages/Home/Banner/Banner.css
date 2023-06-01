@@ -1,0 +1,4 @@
+.thumbs-wrapper ul {
+    display: flex !important;
+    justify-content: center !important;
+  }
